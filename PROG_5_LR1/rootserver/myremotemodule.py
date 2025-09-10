@@ -1,4 +1,5 @@
 def myfoo():
-    author = "Петров Семён"
+    author = "Semion Petrov"
     print(f"{author}'s module is imported")
+
 
